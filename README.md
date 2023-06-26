@@ -1,16 +1,34 @@
-### Hi there 👋
+<!-- Loock -->
+# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpHfDln1CozM_d17ZiLk2CwxJw2zZbJ8Wug&usqp=CAU" width="30px"> SenhorLoock
 
-<!--
-**SenhorLoock/SenhorLoock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sua descrição -->
+Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 
-Here are some ideas to get you started:
+<!-- Ícones de contato -->
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/SenhorLoock)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Linguagens e ferramentas -->
+## Linguagens e Ferramentas
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+
+
+<!-- Estatísticas do GitHub -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&count_private=true&theme=dark)
+
+<!-- Contribuições -->
+## Contribuições
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome&layout=compact&theme=dark)](https://github.com/SenhorLoock)
+
+<!-- Projetos -->
+## Projetos
+
+- [Projeto 1](https://github.com/seu-nome/projeto1)
+- [Projeto 2](https://github.com/seu-nome/projeto2)
+- [Projeto 3](https://github.com/seu-nome/projeto3)

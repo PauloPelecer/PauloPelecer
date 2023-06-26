@@ -31,4 +31,4 @@ Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 
 - [GeradorSenha](https://github.com/SenhorLoock/GeradorSenha)
 - [MirrorYoutube](https://github.com/SenhorLoock/MirrorYoutube)
-- [Gerenciador](https://github.com/SenhorLoock/Gerenciador)
+- [ChatLKG](https://github.com/SenhorLoock/ChatLKG)

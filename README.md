@@ -29,6 +29,6 @@ Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 <!-- Projetos -->
 ## Projetos
 
-- [Projeto 1](https://github.com/seu-nome/projeto1)
-- [Projeto 2](https://github.com/seu-nome/projeto2)
-- [Projeto 3](https://github.com/seu-nome/projeto3)
+- [Projeto 1](https://github.com/SenhorLoock/GeradorSenha)
+- [Projeto 2](https://github.com/SenhorLoock/MirrorYoutube)
+- [Projeto 3](https://github.com/SenhorLoock/Gerenciador)

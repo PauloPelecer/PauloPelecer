@@ -19,7 +19,7 @@ Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 
 
 <!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&count_private=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SenhorLoock&show_icons=true&count_private=true&theme=dark)
 
 <!-- Contribuições -->
 ## Contribuições

@@ -24,7 +24,7 @@ Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 <!-- Contribuições -->
 ## Contribuições
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome&layout=compact&theme=dark)](https://github.com/SenhorLoock)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorLoock&layout=compact&theme=dark)](https://github.com/SenhorLoock)
 
 <!-- Projetos -->
 ## Projetos

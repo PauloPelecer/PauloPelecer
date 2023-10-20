@@ -29,6 +29,6 @@ Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 <!-- Projetos -->
 ## Projetos
 
-- [GeradorSenha](https://github.com/SenhorLoock/GeradorSenha)
+- [MusicPlayer](https://github.com/SenhorLoock/MusicPlayer)
 - [MirrorYoutube](https://github.com/SenhorLoock/MirrorYoutube)
-- [ChatLKG](https://github.com/SenhorLoock/ChatLKG)
+- [StreetRacerWord](https://github.com/SenhorLoock/StreetRacerWord)

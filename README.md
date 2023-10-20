@@ -1,12 +1,12 @@
 <!-- Loock -->
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpHfDln1CozM_d17ZiLk2CwxJw2zZbJ8Wug&usqp=CAU" width="30px"> SenhorLoock
+# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpHfDln1CozM_d17ZiLk2CwxJw2zZbJ8Wug&usqp=CAU" width="30px"> Paulo Pelecer
 
 <!-- Sua descrição -->
 Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 
 <!-- Ícones de contato -->
-[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://senhorloock.github.io/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/SenhorLoock)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://PauloPelecer.github.io/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/PauloPelecer)
 
 <!-- Linguagens e ferramentas -->
 ## Linguagens e Ferramentas
@@ -19,16 +19,16 @@ Olá! Sou um desenvolvedor apaixonado por criar coisas incríveis.
 
 
 <!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SenhorLoock&show_icons=true&count_private=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PauloPelecer&show_icons=true&count_private=true&theme=dark)
 
 <!-- Contribuições -->
 ## Contribuições
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorLoock&layout=compact&theme=dark)](https://github.com/SenhorLoock)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPelecer&layout=compact&theme=dark)](https://github.com/PauloPelecer)
 
 <!-- Projetos -->
 ## Projetos
 
-- [MusicPlayer](https://github.com/SenhorLoock/MusicPlayer)
-- [MirrorYoutube](https://github.com/SenhorLoock/MirrorYoutube)
-- [StreetRacerWord](https://github.com/SenhorLoock/StreetRacerWord)
+- [MusicPlayer](https://github.com/PauloPelecer/MusicPlayer)
+- [MirrorYoutube](https://github.com/PauloPelecer/MirrorYoutube)
+- [StreetRacerWord](https://github.com/PauloPelecer/StreetRacerWord)
